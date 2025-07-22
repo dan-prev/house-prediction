@@ -2,4 +2,4 @@ This project focuses on predicting house prices in Ames, Iowa using various regr
 
 XGBoost performed best overall, with the lowest RMSE after tuning and applying a log transformation to the target variable. Tree-based models generally outperformed linear ones, though regularization helped improve Ridge and Lasso results. The project also explored feature importance, basic feature engineering, and visualized key trends in the data.
 
-All code for training and evaluation is available in the linked Colab notebook. This report summarizes the workflow, key findings, and model comparisons in a clear and structured format.
+This report summarizes the workflow, key findings, and model comparisons in a clear and structured format.
